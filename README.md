@@ -79,7 +79,7 @@ spring:
 </dependency>
 ```
 
-==注意：group 和 namespace 不同的服务，不能通过 服务名 互相调用（但是可以指定 url 调用）。==
+<span style = 'color:red;'>注意：group 和 namespace 不同的服务，不能通过 服务名 互相调用（但是可以指定 url 调用）。</span>
 
 ```java
 @FeignClient(name = "service-test")
