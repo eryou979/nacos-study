@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>service</artifactId>
-    <name>service</name>
-    <description>service</description>
+    <artifactId>service2</artifactId>
+    <name>service2</name>
+    <description>service2</description>
 
 </project>
